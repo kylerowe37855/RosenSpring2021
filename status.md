@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Kyle Rowe
 
-#### Your section leader's name
+#### Partner
 
-TODO
+Borel Hounkpatin
 
 #### Project title
 
-TODO
+Roulette Game
 
 ***
 
@@ -18,11 +18,11 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Create the roulette board and the different betting options, ask the player if they want to continue, basic game structure.
 
 #### What have you not done for your project yet?
 
-TODO
+Calculate the winnings, allow the user to spin the wheel and return a number.
 
 #### What problems, if any, have you encountered?
 
